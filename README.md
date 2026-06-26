@@ -16,7 +16,7 @@
 | [HR Bank](https://island-red-7d8.notion.site/HR-Bank-378f311c823e80e2b8fcffc9a12a38c3?source=copy_link) | Batch 기반 인적 자원 데이터 백업 및 관리 시스템 | 2026.01.20 - 2026.01.29 (10일)|
 
 ## Now.
-`tiny-was` — 순수 Java로 만드는 미니 WAS
+`tiny-was` — 순수 Java로 만드는 미니 WAS  
 `mini-spring` - 순수 Java로 만드는 Spring Framework
 
 ## Stats.
