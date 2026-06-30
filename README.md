@@ -18,6 +18,3 @@
 ## Now.
 `tiny-was` — 순수 Java로 만드는 미니 WAS  
 `mini-spring` - 순수 Java로 만드는 Spring Framework
-
-## Stats.
-![Stats](https://github-readme-stats.vercel.app/api?username=xxzeroeight&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true)
