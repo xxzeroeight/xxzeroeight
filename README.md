@@ -1,14 +1,14 @@
 # Hi, I'm xxzeroeight 👋
 기술보다 개발.
 
-## Skills.
+## skills.
 [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres,redis,elasticsearch&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,nginx&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,postman&theme=light)](https://skillicons.dev)
 
-## Projects.
+## projects.
 | 프로젝트 | 설명 | 기간 |
 |----------|------|-------|
 | [tiny-was & mini-spring](https://app.notion.com/p/tiny-was-mini-spring-39af311c823e804fbf50f989513a3269?source=copy_link) | 순수 Java로 WAS와 경량 Spring 프레임워크를 직접 구현 | 2026.06.16 - 진행중 (4주+)|
@@ -16,6 +16,9 @@
 | [deokhugam](https://island-red-7d8.notion.site/deokhugam-378f311c823e8094b39cc16b6d917fb8?source=copy_link) | 도서 이미지 OCR과 ISBN 매칭 기반의 독서 커뮤니티 | 2026.02.27 - 2026.03.23 (4주)|
 | [HR Bank](https://island-red-7d8.notion.site/HR-Bank-378f311c823e80e2b8fcffc9a12a38c3?source=copy_link) | Batch 기반 인적 자원 데이터 백업 및 관리 시스템 | 2026.01.20 - 2026.01.29 (10일)|
 
-## Now.
+## now.
 `tiny-was` - 순수 Java로 만드는 미니 WAS  
 `mini-spring` - 순수 Java로 만드는 Spring Framework
+
+## my farm.
+[![GitAnimals](https://render.gitanimals.org/farms/xxzeroeight)](https://www.gitanimals.org/en-US?utm_medium=image&utm_source=xxzeroeight&utm_content=farm)
